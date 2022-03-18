@@ -14,7 +14,7 @@
 - 박재연: 
 - 배지호: https://github.com/BaeJ1H021/CS-
 - 신예진:
-- 유임성: dd
+- 유임성: https://imsongkk.tistory.com/
 - 주우진: 
 - 금종연:
 - 임우찬: 
