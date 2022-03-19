@@ -10,7 +10,7 @@
 - 기한 내 정리 못 올릴 시 벌금 5000원
 
 ## 깃헙 레포지토리 링크
-- 이종우: 
+- 이종우: https://github.com/jjongwoo27/TIL/tree/main/OS
 - 박재연: 
 - 배지호: https://github.com/BaeJ1H021/CS-
 - 신예진:
