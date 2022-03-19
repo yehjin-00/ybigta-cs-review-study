@@ -17,5 +17,5 @@
 - 유임성: https://imsongkk.tistory.com/
 - 주우진: 
 - 금종연:
-- 임우찬: https://unique-archduke-bbe.notion.site/be2ea8633c804b29a9497ff72b8b37fe?v=065f96e4593a4749827562a090fa8dc7
+- 임우찬: https://unique-archduke-bbe.notion.site/1-461d5b4d8daf494fbc3acf0dd62a83cd
  
