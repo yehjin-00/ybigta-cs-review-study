@@ -11,7 +11,7 @@
 
 ## 깃헙 레포지토리 링크
 - 이종우: https://github.com/jjongwoo27/TIL/tree/main/OS
-- 박재연: 
+- 박재연: https://curious-index-6c3.notion.site/CS-b4a42f838ac44679b0ca9d3cc8c690d0
 - 배지호: https://github.com/BaeJ1H021/CS-
 - 신예진:
 - 유임성: https://imsongkk.tistory.com/
