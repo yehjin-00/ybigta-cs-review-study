@@ -17,8 +17,7 @@
 - 유임성: https://imsongkk.tistory.com/
 - 금종연:
 - 임우찬: https://unique-archduke-bbe.notion.site/be2ea8633c804b29a9497ff72b8b37fe?v=065f96e4593a4749827562a090fa8dc7
-- 주우진: https://continuous-asteroid-f99.notion.site/9114a324083a483e9d4bd496af8646dd
-          1주차 - DB 기본 용어 정리
-          2주차 - SQL vs NoSQL
+- 주우진: https://continuous-asteroid-f99.notion.site/9114a324083a483e9d4bd496af8646dd - 1,2주차
+      
 
  
