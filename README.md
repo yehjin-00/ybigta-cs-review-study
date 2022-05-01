@@ -13,7 +13,7 @@
 - 이종우: https://github.com/jjongwoo27/TIL/tree/main/OS
 - 박재연: https://curious-index-6c3.notion.site/CS-b4a42f838ac44679b0ca9d3cc8c690d0
 - 배지호: https://github.com/BaeJ1H021/CS-
-- 신예진:
+- 신예진: https://canyon-teacher-837.notion.site/CS-Review-Study-81d4ea5bfdfc4263ab17e5c83b0057d8
 - 유임성: https://imsongkk.tistory.com/
 - 금종연:
 - 임우찬: https://unique-archduke-bbe.notion.site/be2ea8633c804b29a9497ff72b8b37fe?v=065f96e4593a4749827562a090fa8dc7
